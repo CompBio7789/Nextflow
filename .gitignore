@@ -1,0 +1,11 @@
+# Ignore system files
+.DS_Store
+.localized
+.CFUserTextEncoding
+.Trash/
+.Library/
+.Music/
+.Pictures/
+.Movies/
+.Public/
+
